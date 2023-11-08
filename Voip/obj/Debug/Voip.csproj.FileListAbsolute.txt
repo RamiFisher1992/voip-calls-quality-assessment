@@ -1,0 +1,52 @@
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\bin\Debug\Voip.exe.config
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\bin\Debug\Voip.exe
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\bin\Debug\Voip.pdb
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\obj\Debug\Voip.csprojResolveAssemblyReference.cache
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\obj\Debug\Voip.Form1.resources
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\obj\Debug\Voip.Properties.Resources.resources
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\obj\Debug\Voip.csproj.GenerateResource.Cache
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\obj\Debug\Voip.exe
+c:\users\levyei\documents\visual studio 2017\Projects\Voip\Voip\obj\Debug\Voip.pdb
+C:\Users\ramif\Voip\Voip\bin\Debug\Voip.exe.config
+C:\Users\ramif\Voip\Voip\bin\Debug\Voip.exe
+C:\Users\ramif\Voip\Voip\bin\Debug\Voip.pdb
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.csprojResolveAssemblyReference.cache
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.Form1.resources
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.Properties.Resources.resources
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.csproj.GenerateResource.Cache
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.csproj.CoreCompileInputs.cache
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.exe
+C:\Users\ramif\Voip\Voip\obj\Debug\Voip.pdb
+C:\Users\Alik\Desktop\Voip\Voip\bin\Debug\Voip.exe.config
+C:\Users\Alik\Desktop\Voip\Voip\obj\Debug\Voip.exe
+C:\Users\Alik\Desktop\Voip\Voip\obj\Debug\Voip.pdb
+C:\Users\Alik\Desktop\Voip\Voip\bin\Debug\Voip.exe
+C:\Users\Alik\Desktop\Voip\Voip\bin\Debug\Voip.pdb
+C:\Users\Alik\Desktop\Voip\Voip\obj\Debug\Voip.csprojResolveAssemblyReference.cache
+C:\Users\Alik\Desktop\Voip\Voip\obj\Debug\Voip.Form1.resources
+C:\Users\Alik\Desktop\Voip\Voip\obj\Debug\Voip.Properties.Resources.resources
+C:\Users\Alik\Desktop\Voip\Voip\obj\Debug\Voip.csproj.GenerateResource.Cache
+C:\Users\Alik\Desktop\Voip\Voip\bin\Debug\MaterialSkin.dll
+C:\Users\ramif\Desktop\Voip\Voip\bin\Debug\Voip.exe.config
+C:\Users\ramif\Desktop\Voip\Voip\bin\Debug\Voip.exe
+C:\Users\ramif\Desktop\Voip\Voip\bin\Debug\Voip.pdb
+C:\Users\ramif\Desktop\Voip\Voip\bin\Debug\MaterialSkin.dll
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.csprojResolveAssemblyReference.cache
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.Form1.resources
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.Properties.Resources.resources
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.csproj.GenerateResource.Cache
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.csproj.CoreCompileInputs.cache
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.exe
+C:\Users\ramif\Desktop\Voip\Voip\obj\Debug\Voip.pdb
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\bin\Debug\Voip.exe.config
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\bin\Debug\Voip.exe
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\bin\Debug\Voip.pdb
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\bin\Debug\MaterialSkin.dll
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.csproj.AssemblyReference.cache
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.Properties.Resources.resources
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.csproj.GenerateResource.cache
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.csproj.CoreCompileInputs.cache
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.csproj.CopyComplete
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.exe
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.pdb
+C:\Users\U-5058\Documents\Voip-20231029T145914Z-001\Voip\Voip\obj\Debug\Voip.VoipMonitor.resources

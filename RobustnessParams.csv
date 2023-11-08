@@ -1,0 +1,4 @@
+parameters,values
+numOfCalls,2000
+numOfSamples,4
+validationSize,0.2

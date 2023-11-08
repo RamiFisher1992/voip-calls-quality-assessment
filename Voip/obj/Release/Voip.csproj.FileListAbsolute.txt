@@ -1,0 +1,9 @@
+C:\Users\Alik\Desktop\Voip\Voip\bin\Release\Voip.exe.config
+C:\Users\Alik\Desktop\Voip\Voip\bin\Release\Voip.exe
+C:\Users\Alik\Desktop\Voip\Voip\bin\Release\Voip.pdb
+C:\Users\Alik\Desktop\Voip\Voip\bin\Release\MaterialSkin.dll
+C:\Users\Alik\Desktop\Voip\Voip\obj\Release\Voip.Form1.resources
+C:\Users\Alik\Desktop\Voip\Voip\obj\Release\Voip.Properties.Resources.resources
+C:\Users\Alik\Desktop\Voip\Voip\obj\Release\Voip.csproj.GenerateResource.Cache
+C:\Users\Alik\Desktop\Voip\Voip\obj\Release\Voip.exe
+C:\Users\Alik\Desktop\Voip\Voip\obj\Release\Voip.pdb

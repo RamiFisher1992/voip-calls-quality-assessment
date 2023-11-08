@@ -1,0 +1,5 @@
+parameters,values
+choosenAlgoritem,PCA
+numOfCalls,2000
+numOfSamples,4
+unknown,True

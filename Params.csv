@@ -1,0 +1,13 @@
+parameters,values
+choosenAlgoritem,RF
+VQ ,False
+MOS ,False
+JITTER ,True
+PLOSS ,True
+DELAY ,False
+ECHO ,False
+numOfCalls,2500
+numOfSamples,4
+validationSize,0.2
+speed,Medium
+unknown,False
